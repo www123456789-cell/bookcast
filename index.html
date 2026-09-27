@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><title>bookcast</title>
+<style>body{font:15px/1.7 "Segoe UI","Microsoft YaHei",system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px}code{background:#f2f5fb;padding:2px 6px;border-radius:5px}</style>
+</head><body>
+<h1>bookcast</h1>
+<p>这个页面能打开，说明 GitHub Pages 部署成功。</p>
+<p>订阅地址（iPhone 播客 App → 资料库 → 通过 URL 添加节目）：</p>
+<p><code id="u"></code></p>
+<ul id="l"></ul>
+<script>
+const f=location.href.replace(/index\.html$/,"")+"feed.xml";
+document.getElementById("u").textContent=f;
+fetch(f).then(r=>r.text()).then(x=>{const d=new DOMParser().parseFromString(x,"text/xml");
+document.getElementById("l").innerHTML=[...d.querySelectorAll("item")].map(i=>{const t=i.querySelector("title")?.textContent||"?";const e=i.querySelector("enclosure")?.getAttribute("url")||"";return <li><a href=""></a></li>}).join("")||"<li>暂无剧集</li>";})
+.catch(()=>document.getElementById("l").innerHTML="<li>读取 feed.xml 失败</li>");
+</script></body></html>

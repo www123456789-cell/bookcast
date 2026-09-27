@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>查理九世4：法老王之心（AI 朗读）</title>
+    <link>https://www123456789-cell.github.io/bookcast/feed.xml</link>
+    <language>zh-cn</language>
+    <description>查理九世4：法老王之心（AI 朗读）（AI 朗读，含逐句文稿）</description>
+    <lastBuildDate>Sun, 27 Sep 2026 13:16:52 +0000</lastBuildDate>
+    <itunes:author>doc2speech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:owner><itunes:name>doc2speech</itunes:name></itunes:owner>
+    <item>
+      <title>第 1 节</title>
+      <description>查理九世4：法老王之心 第 1 节，共 1 段。</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/01%20%E7%AC%AC%201%20%E8%8A%82.mp3" length="21312" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-查理九世4：法老王之心-1</guid>
+      <pubDate>Sun, 27 Sep 2026 12:41:50 +0000</pubDate>
+      <itunes:duration>00:00:04</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/01%20%E7%AC%AC%201%20%E8%8A%82.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+    </item>
+    <item>
+      <title>第0章 引子</title>
+      <description>查理九世4：法老王之心 第 2 节，共 1 段。</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/02%20%E7%AC%AC0%E7%AB%A0%20%E5%BC%95%E5%AD%90.mp3" length="604656" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-查理九世4：法老王之心-2</guid>
+      <pubDate>Sun, 27 Sep 2026 12:41:58 +0000</pubDate>
+      <itunes:duration>00:01:41</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/02%20%E7%AC%AC0%E7%AB%A0%20%E5%BC%95%E5%AD%90.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+    </item>
+    <item>
+      <title>第1章 灵魂柜台中的埃及少女</title>
+      <description>查理九世4：法老王之心 第 3 节，共 2 段。</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/03%20%E7%AC%AC1%E7%AB%A0%20%E7%81%B5%E9%AD%82%E6%9F%9C%E5%8F%B0%E4%B8%AD%E7%9A%84%E5%9F%83%E5%8F%8A%E5%B0%91%E5%A5%B3.mp3" length="4064544" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-查理九世4：法老王之心-3</guid>
+      <pubDate>Sun, 27 Sep 2026 12:42:35 +0000</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/03%20%E7%AC%AC1%E7%AB%A0%20%E7%81%B5%E9%AD%82%E6%9F%9C%E5%8F%B0%E4%B8%AD%E7%9A%84%E5%9F%83%E5%8F%8A%E5%B0%91%E5%A5%B3.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+    </item>
+  </channel>
+</rss>
