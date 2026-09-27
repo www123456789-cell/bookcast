@@ -1,54 +1,55 @@
-# bookcast — 个人播客源
+# bookcast — 个人播客源（第 2 版）
 
-把书做成播客：每章一期，带逐句文稿。
+## 这版改了什么（针对苹果的硬性要求）
 
-## 部署（全程网页操作，不需要命令行）
+苹果官方《Podcast RSS feed technical requirements》里有两条我们之前违反了：
 
-### 1) 新建仓库
-打开 https://github.com/new
-- Repository name：bookcast
-- 可见性：**Public**
-- README / .gitignore / license 都不要勾
-点 Create repository。
+| 苹果的要求 | 上一版 | 这一版 |
+|---|---|---|
+| "Use only **ASCII filenames and URLs** that include a-z, A-Z, or 0-9" | 文件名是 `01 第 1 节.mp3`（中文+空格）| **改成 `ep01.mp3` / `ep02.mp3` / `ep03.mp3`** |
+| "Required tags → **Artwork**" | 没有封面 | **加了 `cover.png`（1400×1400，RGB 无透明）** |
 
-### 2) 上传文件
-在仓库页点 **Add file → Upload files**，或者直接打开：
-https://github.com/www123456789-cell/bookcast/upload/main
+另外补上了 `xmlns:content` 命名空间（苹果文档的示例里有）。
+章节标题仍然是中文——那是在 `<title>` 文本里，不受 ASCII 限制。
 
-然后用资源管理器打开本文件夹：
-`C:\Users\theon\Documents\ChatGPT\githubmd\doc2speech\podcast-deploy`
+## 上传步骤（纯网页）
 
-**Ctrl+A 全选，拖进网页的虚线框**（本文件夹里没有子目录，拖的都是散文件，不会出层级问题）。
+1. 打开 https://github.com/www123456789-cell/bookcast/upload/main
+2. 资源管理器打开本文件夹，**Ctrl+A 全选，拖进虚线框**
+3. 等上传完 → **Commit changes**
 
-等上传完成（约 4.5 MB）→ 页面下方点 **Commit changes**。
+上传后仓库根目录应该有这些新文件：
 
-> 上传后仓库首页应该**直接**看到 feed.xml、index.html 和一堆 mp3/vtt。
-> 如果看到的是一个叫 podcast-deploy 的文件夹，说明拖错了一层——删掉重传。
+```
+feed.xml          cover.png         .nojekyll
+ep01.mp3  ep01.vtt  ep01.srt
+ep02.mp3  ep02.vtt  ep02.srt
+ep03.mp3  ep03.vtt  ep03.srt
+```
 
-### 3) 开启 Pages
-仓库页 → Settings → 左侧 Pages → Source 选 Deploy from a branch
-→ Branch 选 main、目录选 / (root) → Save
+旧的 `01 第 1 节.mp3` 之类**可以留着不管**（feed 已经不再引用它们），也可以之后有空删掉。
 
-等 1~2 分钟，打开 https://www123456789-cell.github.io/bookcast/ ，能看到页面就是成功了。
+## 然后在 iPhone 上
 
-### 4) 加到 iPhone 播客 App
-资料库 → 右上角「…」→ 通过 URL 添加节目 → 粘贴：
+**必须删掉旧节目重新添加**，否则苹果用的还是缓存里的旧 feed：
 
-https://www123456789-cell.github.io/bookcast/feed.xml
+1. 播客 App → 资料库 → 左滑「查理九世4：法老王之心（AI 朗读）」→ 删除
+2. 资料库 → 右上角「…」→ 通过 URL 添加节目 → 粘贴
+   `https://www123456789-cell.github.io/bookcast/feed.xml`
+3. 等 1~2 分钟让它抓封面和剧集，然后播放一期 → 点「文稿」
 
-## 目录说明
+## 文件说明
 
 | 文件 | 说明 |
 |---|---|
-| feed.xml | 播客订阅源 |
-| *.mp3 | 每章一个音频 |
-| *.vtt | 逐句文稿（苹果播客的「文稿」面板读它） |
-| *.srt | 同样内容转 SRT，给 VLC/nPlayer 用 |
-| index.html | 部署自检页 |
-| .nojekyll | 让 Pages 不做 Jekyll 处理 |
+| `feed.xml` | 播客订阅源（URL 全部 ASCII，含封面与逐句文稿标签）|
+| `cover.png` | 节目封面 1400×1400 |
+| `epNN.mp3` | 每章一个音频 |
+| `epNN.vtt` | 逐句文稿（苹果播客的「文稿」面板读它）|
+| `epNN.srt` | 同样内容转 SRT，给 VLC/nPlayer 用 |
+| `.nojekyll` | 让 Pages 不做 Jekyll 处理 |
 
 ## 版权提醒
 
-GitHub Pages 免费版只能用公开仓库，等于这些音频对外公开、可被搜索引擎收录。
-如果是正版书内容，公开托管有被下架、牵连账号的风险。
-更稳妥：只放自制或有授权的内容；或改用 Cloudflare 隧道（不落地、地址不可猜）。
+公开仓库 = 音频对外可下载、可被搜索引擎收录。测试阶段只有 13 分钟；
+要放整本书之前请先想清楚这一点，或改用 Cloudflare 隧道（不落地、地址不可猜）。
