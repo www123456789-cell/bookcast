@@ -8,7 +8,7 @@
     <link>https://www123456789-cell.github.io/bookcast/feed.xml</link>
     <language>zh-cn</language>
     <description>查理九世4：法老王之心（AI 朗读）（AI 朗读，含逐句文稿）</description>
-    <lastBuildDate>Sun, 27 Sep 2026 13:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:03:56 +0000</lastBuildDate>
     <itunes:author>doc2speech</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
@@ -25,6 +25,8 @@
       <itunes:episode>1</itunes:episode>
       <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep01.vtt"
                           type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep01.srt"
+                          type="application/srt" language="zh-CN"/>
     </item>
     <item>
       <title>第0章 引子</title>
@@ -36,6 +38,8 @@
       <itunes:episode>2</itunes:episode>
       <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep02.vtt"
                           type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep02.srt"
+                          type="application/srt" language="zh-CN"/>
     </item>
     <item>
       <title>第1章 灵魂柜台中的埃及少女</title>
@@ -47,6 +51,8 @@
       <itunes:episode>3</itunes:episode>
       <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep03.vtt"
                           type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/ep03.srt"
+                          type="application/srt" language="zh-CN"/>
     </item>
   </channel>
 </rss>
