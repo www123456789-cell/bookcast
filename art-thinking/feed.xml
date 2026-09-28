@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>像艺术家一样思考（白金版）</title>
+    <link>https://www123456789-cell.github.io/bookcast/art-thinking/feed.xml</link>
+    <language>zh-cn</language>
+    <description>像艺术家一样思考（白金版）（AI 朗读，含逐句文稿）</description>
+    <lastBuildDate>Mon, 28 Sep 2026 05:28:55 +0000</lastBuildDate>
+    <itunes:author>doc2speech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:image href="https://www123456789-cell.github.io/bookcast/art-thinking/cover.png"/>
+    <image><url>https://www123456789-cell.github.io/bookcast/art-thinking/cover.png</url><title>像艺术家一样思考（白金版）</title></image>
+    <itunes:owner><itunes:name>doc2speech</itunes:name></itunes:owner>
+    <item>
+      <title>书名页</title>
+      <description>书名页（第 1 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep01.mp3" length="553824" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-1</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:01:32</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep01.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep01.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>目录</title>
+      <description>目录（第 2 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep02.mp3" length="1350720" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-2</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep02.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep02.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>我为什么会写这本书？</title>
+      <description>我为什么会写这本书？（第 3 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep03.mp3" length="4833648" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-3</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:13:26</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep03.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep03.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>绘画是一种神奇的能力</title>
+      <description>绘画是一种神奇的能力（第 4 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep04.mp3" length="5875344" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-4</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:16:19</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep04.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep04.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>术语的定义</title>
+      <description>术语的定义（第 5 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep05.mp3" length="6709104" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-5</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:18:38</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep05.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep05.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>大脑的两边</title>
+      <description>大脑的两边（第 6 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep06.mp3" length="13648032" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-6</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:37:55</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep06.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep06.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>酒杯和人脸：一项双重大脑的练习</title>
+      <description>酒杯和人脸：一项双重大脑的练习（第 7 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep07.mp3" length="8990064" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-7</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:24:58</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep07.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep07.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>转折时期</title>
+      <description>转折时期（第 8 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep08.mp3" length="10550880" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-8</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep08.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep08.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>尼可雷德斯的轮廓画</title>
+      <description>尼可雷德斯的轮廓画（第 9 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep09.mp3" length="15054048" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-9</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:41:49</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep09.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep09.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>什么是阴形和阳形</title>
+      <description>什么是阴形和阳形（第 10 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep10.mp3" length="10840608" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-10</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:30:07</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep10.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep10.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>学习一分为二的技巧，视角和比例</title>
+      <description>学习一分为二的技巧，视角和比例（第 11 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep11.mp3" length="13227696" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-11</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:14 +0000</pubDate>
+      <itunes:duration>00:36:45</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep11.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep11.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>比例关系在肖像画中的重要性</title>
+      <description>比例关系在肖像画中的重要性（第 12 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep12.mp3" length="14815008" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-12</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:41:09</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep12.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep12.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>观察色彩明暗度</title>
+      <description>观察色彩明暗度（第 13 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep13.mp3" length="18547344" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-13</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:51:31</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep13.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep13.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>把色彩放入大脑</title>
+      <description>把色彩放入大脑（第 14 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep14.mp3" length="15975360" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-14</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:44:23</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep14.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep14.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第六和第七项绘画技巧</title>
+      <description>第六和第七项绘画技巧（第 15 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep15.mp3" length="3469680" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-15</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:09:38</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep15.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep15.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>书法／绘画的基本感知技巧</title>
+      <description>书法／绘画的基本感知技巧（第 16 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep16.mp3" length="6609744" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-16</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:18:22</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep16.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep16.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>五项绘画的基本技能</title>
+      <description>五项绘画的基本技能（第 17 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep17.mp3" length="6365808" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-17</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:17:41</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep17.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep17.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>后记</title>
+      <description>后记（第 18 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/art-thinking/ep18.mp3" length="5392656" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-像艺术家一样思考 (贝蒂·艾德华) (z-18</guid>
+      <pubDate>Mon, 28 Sep 2026 04:25:15 +0000</pubDate>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep18.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/art-thinking/ep18.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+  </channel>
+</rss>
