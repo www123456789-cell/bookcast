@@ -3,5 +3,10 @@
   "slug": "work",
   "title": "工作、消费主义和新穷人",
   "feed": "https://www123456789-cell.github.io/bookcast/work/feed.xml"
+ },
+ {
+  "slug": "yale-death",
+  "title": "耶鲁大学：死亡（中配）",
+  "feed": "https://www123456789-cell.github.io/bookcast/yale-death/feed.xml"
  }
 ]

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>耶鲁大学：死亡（中配）</title>
+    <link>https://www123456789-cell.github.io/bookcast/yale-death/feed.xml</link>
+    <language>zh-cn</language>
+    <description>耶鲁大学：死亡（中配）（AI 朗读，含逐句文稿）</description>
+    <lastBuildDate>Mon, 28 Sep 2026 04:08:51 +0000</lastBuildDate>
+    <itunes:author>doc2speech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:image href="https://www123456789-cell.github.io/bookcast/yale-death/cover.png"/>
+    <image><url>https://www123456789-cell.github.io/bookcast/yale-death/cover.png</url><title>耶鲁大学：死亡（中配）</title></image>
+    <itunes:owner><itunes:name>doc2speech</itunes:name></itunes:owner>
+    <item>
+      <title>课程导论：我们为什么要直面死亡？</title>
+      <description>课程导论：我们为什么要直面死亡？（第 1 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep01.mp3" length="7815276" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-1</guid>
+      <pubDate>Mon, 28 Sep 2026 03:59:00 +0000</pubDate>
+      <itunes:duration>00:32:34</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep01.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep01.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>人的本质：二元论 vs 物理主义——你不只是一具肉体吗？</title>
+      <description>人的本质：二元论 vs 物理主义——你不只是一具肉体吗？（第 2 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep02.mp3" length="7543212" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-2</guid>
+      <pubDate>Mon, 28 Sep 2026 03:59:26 +0000</pubDate>
+      <itunes:duration>00:31:26</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep02.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep02.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>灵魂存在的论证（一）</title>
+      <description>灵魂存在的论证（一）（第 3 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep03.mp3" length="7872780" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-3</guid>
+      <pubDate>Mon, 28 Sep 2026 03:59:54 +0000</pubDate>
+      <itunes:duration>00:32:48</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep03.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep03.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>柏拉图《斐多篇》导读：灵魂存在的论证（二）</title>
+      <description>柏拉图《斐多篇》导读：灵魂存在的论证（二）（第 4 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep04.mp3" length="8296236" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-4</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:21 +0000</pubDate>
+      <itunes:duration>00:34:34</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep04.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep04.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>灵魂存在的论证（三）：自由意志与濒死体验</title>
+      <description>灵魂存在的论证（三）：自由意志与濒死体验（第 5 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep05.mp3" length="8847180" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-5</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:50 +0000</pubDate>
+      <itunes:duration>00:36:52</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep05.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep05.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>灵魂存在的论证（四）；柏拉图（一）</title>
+      <description>灵魂存在的论证（四）；柏拉图（一）（第 6 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep06.mp3" length="6347532" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-6</guid>
+      <pubDate>Mon, 28 Sep 2026 04:01:13 +0000</pubDate>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep06.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep06.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>柏拉图（二）：灵魂不朽的论证</title>
+      <description>柏拉图（二）：灵魂不朽的论证（第 7 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep07.mp3" length="8370252" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-7</guid>
+      <pubDate>Mon, 28 Sep 2026 04:01:41 +0000</pubDate>
+      <itunes:duration>00:34:52</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep07.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep07.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>柏拉图（三）：灵魂不朽的论证（续）</title>
+      <description>柏拉图（三）：灵魂不朽的论证（续）（第 8 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep08.mp3" length="8797260" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-8</guid>
+      <pubDate>Mon, 28 Sep 2026 04:02:11 +0000</pubDate>
+      <itunes:duration>00:36:39</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep08.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep08.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>柏拉图（四）：灵魂不朽的论证（续完）</title>
+      <description>柏拉图（四）：灵魂不朽的论证（续完）（第 9 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep09.mp3" length="8554956" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-9</guid>
+      <pubDate>Mon, 28 Sep 2026 04:02:40 +0000</pubDate>
+      <itunes:duration>00:35:39</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep09.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep09.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>人格同一性（一）：跨越时空的同一性与灵魂理论</title>
+      <description>人格同一性（一）：跨越时空的同一性与灵魂理论（第 10 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep10.mp3" length="8811852" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-10</guid>
+      <pubDate>Mon, 28 Sep 2026 04:03:11 +0000</pubDate>
+      <itunes:duration>00:36:43</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep10.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep10.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>人格同一性（二）：肉体理论与人格理论</title>
+      <description>人格同一性（二）：肉体理论与人格理论（第 11 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep11.mp3" length="9008556" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-11</guid>
+      <pubDate>Mon, 28 Sep 2026 04:03:40 +0000</pubDate>
+      <itunes:duration>00:37:32</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep11.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep11.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>人格同一性（三）：对人格理论的质疑</title>
+      <description>人格同一性（三）：对人格理论的质疑（第 12 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep12.mp3" length="9229740" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-12</guid>
+      <pubDate>Mon, 28 Sep 2026 04:04:10 +0000</pubDate>
+      <itunes:duration>00:38:27</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep12.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep12.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>人格同一性（四）：本质因素何在</title>
+      <description>人格同一性（四）：本质因素何在（第 13 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep13.mp3" length="19857804" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-13</guid>
+      <pubDate>Mon, 28 Sep 2026 04:04:51 +0000</pubDate>
+      <itunes:duration>00:41:22</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep13.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep13.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>本质因素何在（续）、死亡的本质（一）</title>
+      <description>本质因素何在（续）、死亡的本质（一）（第 14 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep14.mp3" length="19438092" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-14</guid>
+      <pubDate>Mon, 28 Sep 2026 04:05:35 +0000</pubDate>
+      <itunes:duration>00:40:30</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep14.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep14.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>死亡的本质（续）：你真的相信自己会死吗？</title>
+      <description>死亡的本质（续）：你真的相信自己会死吗？（第 15 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep15.mp3" length="8077740" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-15</guid>
+      <pubDate>Mon, 28 Sep 2026 04:06:02 +0000</pubDate>
+      <itunes:duration>00:33:39</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep15.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep15.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>孤独地死去；死亡之恶（一）</title>
+      <description>孤独地死去；死亡之恶（一）（第 16 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep16.mp3" length="8971692" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-16</guid>
+      <pubDate>Mon, 28 Sep 2026 04:06:30 +0000</pubDate>
+      <itunes:duration>00:37:23</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep16.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep16.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>死亡之恶（二）：剥夺理论——死为何是坏事</title>
+      <description>死亡之恶（二）：剥夺理论——死为何是坏事（第 17 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep17.mp3" length="9446028" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-17</guid>
+      <pubDate>Mon, 28 Sep 2026 04:07:04 +0000</pubDate>
+      <itunes:duration>00:39:21</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep17.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep17.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>死亡之恶（三）；永生（一）：长生不老真的好吗</title>
+      <description>死亡之恶（三）；永生（一）：长生不老真的好吗（第 18 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep18.mp3" length="9269676" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-18</guid>
+      <pubDate>Mon, 28 Sep 2026 04:07:34 +0000</pubDate>
+      <itunes:duration>00:38:37</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep18.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep18.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>永生（二）；生命的价值（一）</title>
+      <description>永生（二）；生命的价值（一）（第 19 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep19.mp3" length="8977548" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-19</guid>
+      <pubDate>Mon, 28 Sep 2026 04:08:05 +0000</pubDate>
+      <itunes:duration>00:37:24</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep19.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep19.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>生命的价值（二）；死亡的其他坏处（一）</title>
+      <description>生命的价值（二）；死亡的其他坏处（一）（第 20 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep20.mp3" length="9168876" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-20</guid>
+      <pubDate>Mon, 28 Sep 2026 04:08:05 +0000</pubDate>
+      <itunes:duration>00:38:12</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep20.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep20.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>死亡的其他坏处（二）</title>
+      <description>死亡的其他坏处（二）（第 21 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep21.mp3" length="9049068" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-21</guid>
+      <pubDate>Mon, 28 Sep 2026 04:08:34 +0000</pubDate>
+      <itunes:duration>00:37:42</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep21.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep21.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>对死亡的恐惧：我们到底在怕什么？</title>
+      <description>对死亡的恐惧：我们到底在怕什么？（第 22 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/yale-death/ep22.mp3" length="3145728" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-【极致中配】【全网最清晰版】耶鲁大学 死-22</guid>
+      <pubDate>Mon, 28 Sep 2026 04:08:50 +0000</pubDate>
+      <itunes:duration>00:13:06</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep22.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/yale-death/ep22.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+  </channel>
+</rss>
