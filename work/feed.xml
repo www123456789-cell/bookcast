@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>工作、消费主义和新穷人</title>
+    <link>https://www123456789-cell.github.io/bookcast/work/feed.xml</link>
+    <language>zh-cn</language>
+    <description>工作、消费主义和新穷人（AI 朗读，含逐句文稿）</description>
+    <lastBuildDate>Mon, 28 Sep 2026 03:56:15 +0000</lastBuildDate>
+    <itunes:author>doc2speech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:image href="https://www123456789-cell.github.io/bookcast/work/cover.png"/>
+    <image><url>https://www123456789-cell.github.io/bookcast/work/cover.png</url><title>工作、消费主义和新穷人</title></image>
+    <itunes:owner><itunes:name>doc2speech</itunes:name></itunes:owner>
+    <item>
+      <title>版权页</title>
+      <description>版权页（第 1 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep01.mp3" length="545472" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -1</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:01:31</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep01.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep01.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>导言</title>
+      <description>导言（第 2 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep02.mp3" length="1199520" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -2</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep02.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep02.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>目录</title>
+      <description>目录（第 3 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep03.mp3" length="337536" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -3</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:00:56</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep03.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep03.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第一部分</title>
+      <description>第一部分（第 4 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep04.mp3" length="9936" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -4</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep04.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep04.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第一章 工作的意义：创造工作伦理</title>
+      <description>第一章 工作的意义：创造工作伦理（第 5 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep05.mp3" length="14080752" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -5</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:39:07</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep05.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep05.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第二章 从工作伦理到消费美学</title>
+      <description>第二章 从工作伦理到消费美学（第 6 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep06.mp3" length="15646608" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -6</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:43:28</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep06.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep06.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第二部分</title>
+      <description>第二部分（第 7 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep07.mp3" length="10368" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -7</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:52 +0000</pubDate>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep07.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep07.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第三章 福利国家的兴衰</title>
+      <description>第三章 福利国家的兴衰（第 8 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep08.mp3" length="15240096" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -8</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:53 +0000</pubDate>
+      <itunes:duration>00:42:20</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep08.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep08.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第四章 工作伦理和新穷人</title>
+      <description>第四章 工作伦理和新穷人（第 9 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep09.mp3" length="20728080" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -9</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:53 +0000</pubDate>
+      <itunes:duration>00:57:35</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep09.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep09.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第五章 全球化之下的工作与过剩</title>
+      <description>第五章 全球化之下的工作与过剩（第 10 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep10.mp3" length="11732400" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -10</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:53 +0000</pubDate>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep10.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep10.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第三部分</title>
+      <description>第三部分（第 11 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep11.mp3" length="10512" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -11</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:53 +0000</pubDate>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep11.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep11.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>第六章 新穷人的前景</title>
+      <description>第六章 新穷人的前景（第 12 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/work/ep12.mp3" length="14261328" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-工作、消费主义和新穷人 = Work, -12</guid>
+      <pubDate>Sun, 27 Sep 2026 15:35:53 +0000</pubDate>
+      <itunes:duration>00:39:37</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep12.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/work/ep12.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+  </channel>
+</rss>
