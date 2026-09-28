@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>我身上有个不可战胜的夏天</title>
+    <link>https://www123456789-cell.github.io/bookcast/summer/feed.xml</link>
+    <language>zh-cn</language>
+    <description>我身上有个不可战胜的夏天（AI 朗读，含逐句文稿）</description>
+    <lastBuildDate>Mon, 28 Sep 2026 07:44:15 +0000</lastBuildDate>
+    <itunes:author>doc2speech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:image href="https://www123456789-cell.github.io/bookcast/summer/cover.png"/>
+    <image><url>https://www123456789-cell.github.io/bookcast/summer/cover.png</url><title>我身上有个不可战胜的夏天</title></image>
+    <itunes:owner><itunes:name>doc2speech</itunes:name></itunes:owner>
+    <item>
+      <title>版权信息</title>
+      <description>版权信息（第 1 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep01.mp3" length="93024" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-1</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:00:16</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep01.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep01.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>反与正</title>
+      <description>反与正（第 2 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep02.mp3" length="2005200" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-2</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep02.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep02.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>提帕萨的婚礼</title>
+      <description>提帕萨的婚礼（第 3 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep03.mp3" length="3893328" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-3</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:10:49</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep03.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep03.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>重返提帕萨</title>
+      <description>重返提帕萨（第 4 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep04.mp3" length="4616208" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-4</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep04.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep04.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>杰米拉的风</title>
+      <description>杰米拉的风（第 5 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep05.mp3" length="3465360" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-5</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:09:38</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep05.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep05.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>海伦的流亡</title>
+      <description>海伦的流亡（第 6 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep06.mp3" length="2858976" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-6</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep06.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep06.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>阿尔及尔的夏天——致雅克·厄尔贡</title>
+      <description>阿尔及尔的夏天——致雅克·厄尔贡（第 7 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep07.mp3" length="7756848" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-7</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:21:33</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep07.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep07.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>无史之城旅行指南</title>
+      <description>无史之城旅行指南（第 8 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep08.mp3" length="2737152" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-8</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:07:36</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep08.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep08.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>荒漠</title>
+      <description>荒漠（第 9 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep09.mp3" length="7304544" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-9</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:20:17</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep09.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep09.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>讽刺</title>
+      <description>讽刺（第 10 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep10.mp3" length="5844816" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-10</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:16:14</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep10.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep10.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>是与非的间隙</title>
+      <description>是与非的间隙（第 11 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep11.mp3" length="5706864" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-11</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:15:51</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep11.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep11.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>魂之死</title>
+      <description>魂之死（第 12 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep12.mp3" length="6746688" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-12</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:18:44</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep12.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep12.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>生之爱</title>
+      <description>生之爱（第 13 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep13.mp3" length="3122352" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-13</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:08:40</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep13.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep13.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>谜语</title>
+      <description>谜语（第 14 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep14.mp3" length="4010688" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-14</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:11:08</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep14.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep14.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+    <item>
+      <title>到海上去</title>
+      <description>到海上去（第 15 集）</description>
+      <enclosure url="https://www123456789-cell.github.io/bookcast/summer/ep15.mp3" length="5043600" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2s-夏天-原始音频-15</guid>
+      <pubDate>Mon, 28 Sep 2026 05:46:05 +0000</pubDate>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep15.vtt"
+                          type="text/vtt" language="zh-CN" rel="captions"/>
+      <podcast:transcript url="https://www123456789-cell.github.io/bookcast/summer/ep15.srt"
+                          type="application/srt" language="zh-CN"/>
+    </item>
+  </channel>
+</rss>

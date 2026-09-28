@@ -1,8 +1,18 @@
 [
  {
+  "slug": "art-thinking",
+  "title": "像艺术家一样思考（白金版）",
+  "feed": "https://www123456789-cell.github.io/bookcast/art-thinking/feed.xml"
+ },
+ {
   "slug": "work",
   "title": "工作、消费主义和新穷人",
   "feed": "https://www123456789-cell.github.io/bookcast/work/feed.xml"
+ },
+ {
+  "slug": "summer",
+  "title": "我身上有个不可战胜的夏天",
+  "feed": "https://www123456789-cell.github.io/bookcast/summer/feed.xml"
  },
  {
   "slug": "yale-death",
