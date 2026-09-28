@@ -1,0 +1,24 @@
+上传到 GitHub Pages 的步骤
+==========================
+
+1) 打开上传页
+   https://github.com/www123456789-cell/bookcast/upload/main
+
+2) 把本文件夹里的全部文件（16 个）拖进虚线框
+   - ep01.mp3 ~ ep12.mp3（每章一集）
+   - feed.xml（订阅源）
+   - cover.png（节目封面 1400x1400）
+   - .nojekyll、episodes.json
+   - ep01-03.mp3 / cover.png / feed.xml 会覆盖之前那本测试书
+   - 单个文件都小于 25 MB，网页上传没问题（最大 19.8 MB）
+
+3) 页面下方点 Commit changes
+
+4) 等 1~2 分钟，用浏览器打开下面这个地址，能看到一堆 XML 就成功了：
+   https://www123456789-cell.github.io/bookcast/feed.xml
+
+5) iPhone 播客 App：
+   - 如果之前已经添加过这个节目 → 进节目页下拉刷新，会变成 12 集
+   - 如果没添加过 → 资料库 → 右上角「…」→ 通过 URL 添加节目 → 粘贴上面那个地址
+
+6) 电脑可以关机了。手机用流量也能听，Apple Watch 也会同步。
